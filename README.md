@@ -9,6 +9,7 @@ Small, safe PowerShell helpers for common Windows support tasks, from my day-to-
 | `Clear-PrintQueue.ps1` | Stops the Print Spooler, clears stuck jobs, restarts it | A document is stuck and nothing will print |
 | `Check-DiskSpace.ps1` | Shows free space on all drives and the largest folders in the user profile | "My computer is so slow" / disk almost full |
 | `Reset-Network.ps1` | Renews the IP address, flushes DNS and shows the new configuration | Wi-Fi/LAN connected but no internet |
+| `Get-SystemInfo.ps1` | Collects PC name, Windows version, RAM, CPU and disk facts for a support ticket | Opening a ticket and support asks "which PC / which Windows?" |
 
 ## How to run
 
