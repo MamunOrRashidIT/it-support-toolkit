@@ -10,6 +10,7 @@ Small, safe PowerShell helpers for common Windows support tasks, from my day-to-
 | `Check-DiskSpace.ps1` | Shows free space on all drives and the largest folders in the user profile | "My computer is so slow" / disk almost full |
 | `Reset-Network.ps1` | Renews the IP address, flushes DNS and shows the new configuration | Wi-Fi/LAN connected but no internet |
 | `Get-SystemInfo.ps1` | Collects PC name, Windows version, RAM, CPU and disk facts for a support ticket | Opening a ticket and support asks "which PC / which Windows?" |
+| `Test-InternetConnection.ps1` | Tests gateway, internet and DNS step by step | "No internet" — find out whether it is the PC, the router or the provider |
 
 ## How to run
 
