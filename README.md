@@ -11,6 +11,7 @@ Small, safe PowerShell helpers for common Windows support tasks, from my day-to-
 | `Reset-Network.ps1` | Renews the IP address, flushes DNS and shows the new configuration | Wi-Fi/LAN connected but no internet |
 | `Get-SystemInfo.ps1` | Collects PC name, Windows version, RAM, CPU and disk facts for a support ticket | Opening a ticket and support asks "which PC / which Windows?" |
 | `Test-InternetConnection.ps1` | Tests gateway, internet and DNS step by step | "No internet" — find out whether it is the PC, the router or the provider |
+| `Clear-TempFiles.ps1` | Shows temp-folder sizes and deletes temp files only after a YES confirmation | Disk full and a safe clean-up is needed |
 
 ## How to run
 
