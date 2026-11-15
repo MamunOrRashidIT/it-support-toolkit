@@ -14,6 +14,7 @@ Small, safe PowerShell helpers for common Windows support tasks, from my day-to-
 | `Clear-TempFiles.ps1` | Shows temp-folder sizes and deletes temp files only after a YES confirmation | Disk full and a safe clean-up is needed |
 | `Get-InstalledPrograms.ps1` | Lists installed programs with versions and saves a CSV to the Desktop | Support asks what is installed, or before a PC swap
 | `Check-WindowsUpdateStatus.ps1` | Shows last updates, failed updates and whether a restart is pending | Update trouble, or "did that update install?" |
+| `Find-LargeFiles.ps1` | Finds the largest files in the user profile (over 500 MB by default) | Disk full and you need to know what is using the space |
 
 ## How to run
 
